@@ -41,7 +41,7 @@ A full-stack cryptocurrency pump and dump detection system combining blockchain 
 
 
 
-## 🤖Tech-Stack
+## 🤖 Tech-Stack
 ### 🏗️ System Architecture
 
 ```mermaid
